@@ -13,6 +13,14 @@ import static junit.framework.Assert.assertTrue;
 
 public class RxJavaUnitTest3 {
 
+    //https://proandroiddev.com/rxjava-2-unit-testing-tips-207887d3f15c
+    //https://proandroiddev.com/rxjava-2-unit-testing-tips-207887d3f15c
+    //https://proandroiddev.com/rxjava-2-unit-testing-tips-207887d3f15c
+    //https://www.infoq.com/articles/Testing-RxJava2/
+    //https://www.infoq.com/articles/Testing-RxJava2/
+    //todo https://www.infoq.com/articles/Testing-RxJava2/
+
+
     String result="";
 
     // Simple subscription to a fix value
